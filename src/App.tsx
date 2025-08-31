@@ -381,7 +381,7 @@ function App() {
       </main>
 
       {/* Footer */}
-      <footer className="bg-gray-50 dark:bg-gray-900 border-t border-gray-200 dark:border-green-500/20 mt-16 transition-colors duration-300">
+      {/* <footer className="bg-gray-50 dark:bg-gray-900 border-t border-gray-200 dark:border-green-500/20 mt-16 transition-colors duration-300">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
           <div className="text-center">
             <div className="flex items-center justify-center space-x-6 text-sm text-gray-500 dark:text-gray-400 transition-colors duration-300">
@@ -396,7 +396,7 @@ function App() {
             </div>
           </div>
         </div>
-      </footer>
+      </footer> */}
     </div>
   );
 }
